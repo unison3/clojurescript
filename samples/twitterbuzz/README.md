@@ -4,7 +4,7 @@
 
 ## One-time Setup
 
-See https://github.com/clojure/clojurescript/wiki/Quick-Start
+See https://clojurescript.org/guides/quick-start
 
 ## Run in Development Mode
 
